@@ -1,0 +1,2128 @@
+2026-05-19 04:26:22 | ciudad=valdivia scrapers=1 enviados=3 duracion=3.98s
+2026-05-19 04:26:36 | ciudad=pucon scrapers=3 enviados=8 duracion=6.62s
+2026-05-19 04:39:12 | ciudad=pucon scrapers=1 enviados=7 duracion=13.14s
+2026-05-19 04:43:04 | ciudad=pucon scrapers=4 enviados=15 duracion=20.58s
+2026-05-19 04:50:49 | ciudad=valdivia scrapers=2 enviados=0 duracion=2.37s
+2026-05-19 04:51:22 | ciudad=valdivia scrapers=2 enviados=5 duracion=5.73s
+2026-05-19 04:51:29 | ciudad=pucon scrapers=2 enviados=0 duracion=2.19s
+2026-05-20 01:56:55 | ciudad=valdivia scrapers=6 enviados=19 duracion=26.64s
+2026-05-20 01:57:33 | ciudad=pucon scrapers=6 enviados=15 duracion=37.33s
+=== CARGA DE EVENTOS Wed May 20 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-20 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.89s
+  Scrapers: 6
+  Enviados: 19
+2026-05-20 02:00:21 | ciudad=valdivia scrapers=6 enviados=19 duracion=19.89s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-20 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90613 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 25.41s
+  Scrapers: 6
+  Enviados: 15
+2026-05-20 02:00:47 | ciudad=pucon scrapers=6 enviados=15 duracion=25.41s
+=== FIN Wed May 20 02:00:47 AM UTC 2026 ===
+2026-05-20 02:20:35 | ciudad=valdivia scrapers=6 enviados=19 duracion=440.71s
+2026-05-20 03:49:37 | ciudad=valdivia scrapers=1 enviados=7 duracion=14.52s
+2026-05-20 04:02:01 | ciudad=valdivia scrapers=1 enviados=7 duracion=15.3s
+2026-05-20 04:02:32 | ciudad=valdivia scrapers=1 enviados=7 duracion=12.87s
+=== CARGA DE EVENTOS Thu May 21 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-21 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    7 encont, 2 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.36s
+  Scrapers: 6
+  Enviados: 14
+2026-05-21 02:00:21 | ciudad=valdivia scrapers=6 enviados=14 duracion=19.36s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-21 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90182 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 26.23s
+  Scrapers: 6
+  Enviados: 15
+2026-05-21 02:00:47 | ciudad=pucon scrapers=6 enviados=15 duracion=26.23s
+=== FIN Thu May 21 02:00:47 AM UTC 2026 ===
+=== CARGA DE EVENTOS Fri May 22 02:00:02 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-22 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    7 encont, 2 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 5 eventos encontrados
+[instagram_muni] Encontrados 5 eventos
+[instagram_muni] Fin: 5 enviados, 0 errores
+    5 encont, 5 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 22.52s
+  Scrapers: 6
+  Enviados: 19
+2026-05-22 02:00:24 | ciudad=valdivia scrapers=6 enviados=19 duracion=22.52s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-22 02:00:24
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90168 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 34.3s
+  Scrapers: 6
+  Enviados: 15
+2026-05-22 02:00:59 | ciudad=pucon scrapers=6 enviados=15 duracion=34.3s
+=== FIN Fri May 22 02:00:59 AM UTC 2026 ===
+=== CARGA DE EVENTOS Sat May 23 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-23 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    7 encont, 2 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.17s
+  Scrapers: 6
+  Enviados: 14
+2026-05-23 02:00:21 | ciudad=valdivia scrapers=6 enviados=14 duracion=19.17s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-23 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90591 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 26.33s
+  Scrapers: 6
+  Enviados: 15
+2026-05-23 02:00:47 | ciudad=pucon scrapers=6 enviados=15 duracion=26.33s
+=== FIN Sat May 23 02:00:47 AM UTC 2026 ===
+=== CARGA DE EVENTOS Sun May 24 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-24 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    7 encont, 2 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 4 eventos encontrados
+[instagram_muni] Encontrados 4 eventos
+[instagram_muni] Fin: 3 enviados, 0 errores
+    4 encont, 3 env, 0 err, 1 dup
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 20.31s
+  Scrapers: 6
+  Enviados: 17
+2026-05-24 02:00:21 | ciudad=valdivia scrapers=6 enviados=17 duracion=20.31s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-24 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90730 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 24.99s
+  Scrapers: 6
+  Enviados: 15
+2026-05-24 02:00:46 | ciudad=pucon scrapers=6 enviados=15 duracion=24.99s
+=== FIN Sun May 24 02:00:46 AM UTC 2026 ===
+=== CARGA DE EVENTOS Mon May 25 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-25 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    7 encont, 2 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 18.46s
+  Scrapers: 6
+  Enviados: 14
+2026-05-25 02:00:20 | ciudad=valdivia scrapers=6 enviados=14 duracion=18.46s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-25 02:00:20
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90691 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 24.77s
+  Scrapers: 6
+  Enviados: 15
+2026-05-25 02:00:45 | ciudad=pucon scrapers=6 enviados=15 duracion=24.77s
+=== FIN Mon May 25 02:00:45 AM UTC 2026 ===
+=== CARGA DE EVENTOS Tue May 26 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-26 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    7 encont, 2 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.38s
+  Scrapers: 6
+  Enviados: 14
+2026-05-26 02:00:20 | ciudad=valdivia scrapers=6 enviados=14 duracion=19.38s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-26 02:00:20
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (91346 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 25.9s
+  Scrapers: 6
+  Enviados: 15
+2026-05-26 02:00:46 | ciudad=pucon scrapers=6 enviados=15 duracion=25.9s
+=== FIN Tue May 26 02:00:46 AM UTC 2026 ===
+=== CARGA DE EVENTOS Wed May 27 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-27 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 3 enviados, 0 errores
+    8 encont, 3 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 22.01s
+  Scrapers: 6
+  Enviados: 15
+2026-05-27 02:00:23 | ciudad=valdivia scrapers=6 enviados=15 duracion=22.01s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-27 02:00:23
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90356 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 30.61s
+  Scrapers: 6
+  Enviados: 16
+2026-05-27 02:00:54 | ciudad=pucon scrapers=6 enviados=16 duracion=30.61s
+=== FIN Wed May 27 02:00:54 AM UTC 2026 ===
+=== CARGA DE EVENTOS Thu May 28 02:00:02 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-28 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    8 encont, 2 env, 0 err, 6 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.53s
+  Scrapers: 6
+  Enviados: 14
+2026-05-28 02:00:21 | ciudad=valdivia scrapers=6 enviados=14 duracion=19.53s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-28 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90855 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] No se pudo obtener RSS de Visita Pucón
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 41.08s
+  Scrapers: 6
+  Enviados: 16
+2026-05-28 02:01:02 | ciudad=pucon scrapers=6 enviados=16 duracion=41.08s
+=== FIN Thu May 28 02:01:02 AM UTC 2026 ===
+=== CARGA DE EVENTOS Fri May 29 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-29 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    8 encont, 2 env, 0 err, 6 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 5 eventos encontrados
+[instagram_muni] Encontrados 5 eventos
+[instagram_muni] Fin: 5 enviados, 0 errores
+    5 encont, 5 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.4s
+  Scrapers: 6
+  Enviados: 19
+2026-05-29 02:00:21 | ciudad=valdivia scrapers=6 enviados=19 duracion=19.4s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-29 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90123 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] No se pudo obtener RSS de Visita Pucón
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 39.66s
+  Scrapers: 6
+  Enviados: 16
+2026-05-29 02:01:00 | ciudad=pucon scrapers=6 enviados=16 duracion=39.66s
+=== FIN Fri May 29 02:01:00 AM UTC 2026 ===
+=== CARGA DE EVENTOS Sat May 30 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-30 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    8 encont, 2 env, 0 err, 6 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 5 eventos encontrados
+[instagram_muni] Encontrados 5 eventos
+[instagram_muni] Fin: 3 enviados, 0 errores
+    5 encont, 3 env, 0 err, 2 dup
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.99s
+  Scrapers: 6
+  Enviados: 17
+2026-05-30 02:00:21 | ciudad=valdivia scrapers=6 enviados=17 duracion=19.99s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-30 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 8 eventos
+[chilecultura] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90234 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 34.2s
+  Scrapers: 6
+  Enviados: 16
+2026-05-30 02:00:55 | ciudad=pucon scrapers=6 enviados=16 duracion=34.2s
+=== FIN Sat May 30 02:00:55 AM UTC 2026 ===
+=== CARGA DE EVENTOS Sun May 31 02:00:02 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-05-31 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    7 encont, 2 env, 0 err, 5 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 5 eventos encontrados
+[instagram_muni] Encontrados 5 eventos
+[instagram_muni] Fin: 3 enviados, 0 errores
+    5 encont, 3 env, 0 err, 2 dup
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 20.83s
+  Scrapers: 6
+  Enviados: 17
+2026-05-31 02:00:23 | ciudad=valdivia scrapers=6 enviados=17 duracion=20.83s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-05-31 02:00:23
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 7 eventos
+[chilecultura] Fin: 7 enviados, 0 errores
+    7 encont, 7 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90612 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 25.22s
+  Scrapers: 6
+  Enviados: 15
+2026-05-31 02:00:48 | ciudad=pucon scrapers=6 enviados=15 duracion=25.22s
+=== FIN Sun May 31 02:00:48 AM UTC 2026 ===
+=== CARGA DE EVENTOS Mon Jun  1 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-01 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 5 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    5 encont, 2 env, 0 err, 3 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 5 eventos encontrados
+[instagram_muni] Encontrados 5 eventos
+[instagram_muni] Fin: 1 enviados, 0 errores
+    5 encont, 1 env, 0 err, 4 dup
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 20.63s
+  Scrapers: 6
+  Enviados: 15
+2026-06-01 02:00:22 | ciudad=valdivia scrapers=6 enviados=15 duracion=20.63s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-01 02:00:22
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 5 eventos
+[chilecultura] Fin: 5 enviados, 0 errores
+    5 encont, 5 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90418 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 22.52s
+  Scrapers: 6
+  Enviados: 13
+2026-06-01 02:00:45 | ciudad=pucon scrapers=6 enviados=13 duracion=22.52s
+=== FIN Mon Jun  1 02:00:45 AM UTC 2026 ===
+=== CARGA DE EVENTOS Tue Jun  2 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-02 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 3 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    3 encont, 2 env, 0 err, 1 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 19.8s
+  Scrapers: 6
+  Enviados: 14
+2026-06-02 02:00:21 | ciudad=valdivia scrapers=6 enviados=14 duracion=19.8s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-02 02:00:21
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 3 eventos
+[chilecultura] Fin: 3 enviados, 0 errores
+    3 encont, 3 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (89987 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 20.28s
+  Scrapers: 6
+  Enviados: 11
+2026-06-02 02:00:41 | ciudad=pucon scrapers=6 enviados=11 duracion=20.28s
+=== FIN Tue Jun  2 02:00:41 AM UTC 2026 ===
+=== CARGA DE EVENTOS Wed Jun  3 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-03 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 3 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    3 encont, 2 env, 0 err, 1 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 18.59s
+  Scrapers: 6
+  Enviados: 14
+2026-06-03 02:00:20 | ciudad=valdivia scrapers=6 enviados=14 duracion=18.59s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-03 02:00:20
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 3 eventos
+[chilecultura] Fin: 3 enviados, 0 errores
+    3 encont, 3 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (91220 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 20.24s
+  Scrapers: 6
+  Enviados: 11
+2026-06-03 02:00:40 | ciudad=pucon scrapers=6 enviados=11 duracion=20.24s
+=== FIN Wed Jun  3 02:00:40 AM UTC 2026 ===
+=== CARGA DE EVENTOS Thu Jun  4 02:00:02 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-04 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 1 eventos
+[chilecultura] Fin: 0 enviados, 0 errores
+    1 encont, 0 env, 0 err, 1 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 45.27s
+  Scrapers: 6
+  Enviados: 12
+2026-06-04 02:00:47 | ciudad=valdivia scrapers=6 enviados=12 duracion=45.27s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-04 02:00:47
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 1 eventos
+[chilecultura] Fin: 1 enviados, 0 errores
+    1 encont, 1 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (91098 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 32.36s
+  Scrapers: 6
+  Enviados: 9
+2026-06-04 02:01:20 | ciudad=pucon scrapers=6 enviados=9 duracion=32.36s
+=== FIN Thu Jun  4 02:01:20 AM UTC 2026 ===
+=== CARGA DE EVENTOS Fri Jun  5 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-05 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 2 eventos
+[chilecultura] Fin: 1 enviados, 0 errores
+    2 encont, 1 env, 0 err, 1 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 31.62s
+  Scrapers: 6
+  Enviados: 13
+2026-06-05 02:00:33 | ciudad=valdivia scrapers=6 enviados=13 duracion=31.62s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-05 02:00:33
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 2 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    2 encont, 2 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (89888 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 44.95s
+  Scrapers: 6
+  Enviados: 10
+2026-06-05 02:01:18 | ciudad=pucon scrapers=6 enviados=10 duracion=44.95s
+=== FIN Fri Jun  5 02:01:18 AM UTC 2026 ===
+=== CARGA DE EVENTOS Sat Jun  6 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-06 02:00:01
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    4 encont, 2 env, 0 err, 2 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 18.38s
+  Scrapers: 6
+  Enviados: 14
+2026-06-06 02:00:20 | ciudad=valdivia scrapers=6 enviados=14 duracion=18.38s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-06 02:00:20
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 4 enviados, 0 errores
+    4 encont, 4 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90412 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 24.27s
+  Scrapers: 6
+  Enviados: 12
+2026-06-06 02:00:44 | ciudad=pucon scrapers=6 enviados=12 duracion=24.27s
+=== FIN Sat Jun  6 02:00:44 AM UTC 2026 ===
+=== CARGA DE EVENTOS Sun Jun  7 02:00:01 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-07 02:00:02
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    4 encont, 2 env, 0 err, 2 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] No se pudo obtener feed de Instagram: munivaldivia
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 18.07s
+  Scrapers: 6
+  Enviados: 14
+2026-06-07 02:00:20 | ciudad=valdivia scrapers=6 enviados=14 duracion=18.07s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-07 02:00:20
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 4 enviados, 0 errores
+    4 encont, 4 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] No se pudo obtener feed de Instagram: municipalidadpucon
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (91068 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] No se pudo obtener RSS de Visita Pucón
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 35.49s
+  Scrapers: 6
+  Enviados: 12
+2026-06-07 02:00:55 | ciudad=pucon scrapers=6 enviados=12 duracion=35.49s
+=== FIN Sun Jun  7 02:00:55 AM UTC 2026 ===
+=== CARGA DE EVENTOS Mon Jun  8 02:00:02 AM UTC 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-08 02:00:03
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    4 encont, 2 env, 0 err, 2 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /munivaldivia: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @munivaldivia: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 20.46s
+  Scrapers: 6
+  Enviados: 14
+2026-06-08 02:00:23 | ciudad=valdivia scrapers=6 enviados=14 duracion=20.46s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-08 02:00:23
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 4 enviados, 0 errores
+    4 encont, 4 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] Facebook /municipalidadpucon: 0 eventos encontrados
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] Instagram @municipalidadpucon: 0 eventos encontrados
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90000 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 24.2s
+  Scrapers: 6
+  Enviados: 12
+2026-06-08 02:00:48 | ciudad=pucon scrapers=6 enviados=12 duracion=24.2s
+=== FIN Mon Jun  8 02:00:48 AM UTC 2026 ===
+=== CARGA DE EVENTOS Tue Jun  9 02:00:00 AM -04 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-09 06:00:00
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    4 encont, 2 env, 0 err, 2 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] No se pudo obtener feed de Facebook: munivaldivia
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] No se pudo obtener feed de Instagram: munivaldivia
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 18.62s
+  Scrapers: 6
+  Enviados: 14
+2026-06-09 06:00:19 | ciudad=valdivia scrapers=6 enviados=14 duracion=18.62s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-09 06:00:19
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 4 enviados, 0 errores
+    4 encont, 4 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] No se pudo obtener feed de Facebook: municipalidadpucon
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] No se pudo obtener feed de Instagram: municipalidadpucon
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90337 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 20.24s
+  Scrapers: 6
+  Enviados: 12
+2026-06-09 06:00:39 | ciudad=pucon scrapers=6 enviados=12 duracion=20.24s
+=== FIN Tue Jun  9 02:00:39 AM -04 2026 ===
+=== CARGA DE EVENTOS Wed Jun 10 02:00:00 AM -04 2026 ===
+--- Valdivia ---
+
+=== CARGA DE EVENTOS: VALDIVIA ===
+Inicio: 2026-06-10 06:00:00
+Config: valdivia.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 2 enviados, 0 errores
+    4 encont, 2 env, 0 err, 2 dup
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] No se pudo obtener feed de Facebook: munivaldivia
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] No se pudo obtener feed de Instagram: munivaldivia
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 12 eventos
+[sernatur] Fin: 12 enviados, 0 errores
+    12 encont, 12 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Scraper solo para Pucón, saltando
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: VALDIVIA
+  Duración: 18.25s
+  Scrapers: 6
+  Enviados: 14
+2026-06-10 06:00:18 | ciudad=valdivia scrapers=6 enviados=14 duracion=18.25s
+
+--- Pucón ---
+
+=== CARGA DE EVENTOS: PUCON ===
+Inicio: 2026-06-10 06:00:18
+Config: pucon.php
+
+>>> ChileCultura (chilecultura)
+[chilecultura] Iniciando: ChileCultura (chilecultura)
+[chilecultura] Encontrados 4 eventos
+[chilecultura] Fin: 4 enviados, 0 errores
+    4 encont, 4 env, 0 err
+>>> Facebook Municipal (facebook_muni)
+[facebook_muni] Iniciando: Facebook Municipal (facebook_muni)
+[facebook_muni] No se pudo obtener feed de Facebook: municipalidadpucon
+[facebook_muni] Encontrados 0 eventos
+[facebook_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Instagram Municipal (instagram_muni)
+[instagram_muni] Iniciando: Instagram Municipal (instagram_muni)
+[instagram_muni] No se pudo obtener feed de Instagram: municipalidadpucon
+[instagram_muni] Encontrados 0 eventos
+[instagram_muni] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> Municipalidad de Pucón (munipucon)
+[munipucon] Iniciando: Municipalidad de Pucón (munipucon)
+[munipucon] Google Cache obtenido (90888 bytes)
+[munipucon] Encontrados 0 eventos potenciales
+[munipucon] Encontrados 0 eventos
+[munipucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+>>> SERNATUR (sernatur)
+[sernatur] Iniciando: SERNATUR (sernatur)
+[sernatur] Encontrados 8 eventos
+[sernatur] Fin: 8 enviados, 0 errores
+    8 encont, 8 env, 0 err
+>>> Visita Pucón (visitapucon)
+[visitapucon] Iniciando: Visita Pucón (visitapucon)
+[visitapucon] Encontrados 0 eventos
+[visitapucon] Fin: 0 enviados, 0 errores
+    0 encont, 0 env, 0 err
+
+=== RESUMEN ===
+  Ciudad: PUCON
+  Duración: 20.14s
+  Scrapers: 6
+  Enviados: 12
+2026-06-10 06:00:38 | ciudad=pucon scrapers=6 enviados=12 duracion=20.14s
+=== FIN Wed Jun 10 02:00:38 AM -04 2026 ===
